@@ -63,4 +63,5 @@ html, body {
 .limitText {
     font-size: 32px;
     color: white;
+    text-align: center;
 }
