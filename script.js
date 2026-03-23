@@ -14,7 +14,7 @@ button.addEventListener("click", () => {
     count++;
 
     const sheep = document.createElement("img");
-    sheep.src = "assets/ovelha.png";
+    sheep.src = "/assets/ovelha.png";
     sheep.classList.add("sheep");
 
     // posição aleatória
